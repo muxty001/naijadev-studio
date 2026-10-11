@@ -1,0 +1,13 @@
+# Private environment variables
+.env
+.env.*
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Frontend dependencies and build files
+node_modules/
+dist/
